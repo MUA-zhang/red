@@ -1,0 +1,1 @@
+<view class="card"><button class="btn-primary" bindtap="handleLogin">微信一键登录</button></view>

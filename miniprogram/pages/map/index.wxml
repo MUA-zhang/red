@@ -1,0 +1,2 @@
+<map class="map" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{markers}}" bindmarkertap="markerTap"></map>
+<view class="card" wx:if="{{selected}}"><text>已选：{{selected.title}}</text><button class="btn-primary" bindtap="checkin">立即打卡</button></view>
