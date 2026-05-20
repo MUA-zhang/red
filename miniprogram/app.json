@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/splash/index",
+    "pages/login/index",
+    "pages/map/index",
+    "pages/profile/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "京彩红印",
+    "navigationBarBackgroundColor": "#c03c3c",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f5f0eb"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

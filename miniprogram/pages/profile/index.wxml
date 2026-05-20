@@ -1,0 +1,1 @@
+<view class="card" wx:if="{{user}}"><text>昵称：{{user.nickName}}</text><text>\n累计打卡：{{user.checkinCount}}</text></view>
